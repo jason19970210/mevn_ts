@@ -2,6 +2,8 @@
 Todo List Web Application  
 tags: `mongodb` `express` `vue.js v3` `node.js` `typescript`
 
+#### Hackmd Slide
+https://hackmd.io/@jason19970210/mevn_ts
 
 ### Todo
 - [x] server-side nginx & ufw setup
