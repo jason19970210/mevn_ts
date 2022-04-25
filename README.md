@@ -17,6 +17,7 @@ https://hackmd.io/@jason19970210/mevn_ts
 - [ ] server-side unit test with abnormal payload
 - [ ] functional programming
 - [ ] ts-fp pipe
+- [ ] swagger tsoa automation
 
 
 ### Config
