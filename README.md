@@ -6,10 +6,14 @@ tags: `mongodb` `express` `vue.js v3` `node.js` `typescript`
 https://hackmd.io/@jason19970210/mevn_ts
 
 ### Todo
+- [x] CRUD API Entry
 - [x] server-side nginx & ufw setup
 - [ ] pack with Docker
+- [x] filter
+- [x] sort
 - [ ] `search` with task content
 - [ ] swagger `Schema` check
+- [ ] server-side unit test with normal payload
 - [ ] server-side unit test with abnormal payload
 - [ ] functional programming
 - [ ] ts-fp pipe
