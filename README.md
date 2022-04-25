@@ -23,6 +23,7 @@ Create your own `.env` in `server/` folder
 ```
 ## terminal 1
 $ cd server
+$ npm i && npm run build
 $ npm start
 
 ## terminal 2
