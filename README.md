@@ -7,6 +7,7 @@ tags: `mongodb` `express` `vue.js v3` `node.js` `typescript`
 - [x] server-side nginx & ufw setup
 - [ ] pack with Docker
 - [ ] `search` with task content
+- [ ] swagger `Schema` check
 - [ ] server-side unit test with abnormal payload
 - [ ] functional programming
 - [ ] ts-fp pipe
