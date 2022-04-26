@@ -13,6 +13,8 @@ https://hackmd.io/@jason19970210/mevn_ts
 - [x] sort
 - [ ] `search` with task content
 - [ ] swagger `Schema` check
+- [ ] server-side input validation
+- [ ] server-side format validation
 - [ ] server-side unit test with normal payload
 - [ ] server-side unit test with abnormal payload
 - [ ] functional programming
